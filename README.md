@@ -1,6 +1,6 @@
 ### Heyy! I'm João Pedro Barreto 👋
 ##
-- 🔭 I’m currently working whith back-end
+- 🔭 I’m currently working with back-end
 - 🌱 I’m currently learning python
 
 <div align="center">
