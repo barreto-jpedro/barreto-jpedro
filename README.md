@@ -1,6 +1,6 @@
 ### Heyy! I'm João Pedro Barreto 👋
 ##
-- 🔭 I’m currently learning solidity and studying about smart contracts
+- 🔭 I’m currently learning python and studying about data analysis
 
 <div align="center">
   <a href="https://github.com/barreto-jpedro">
