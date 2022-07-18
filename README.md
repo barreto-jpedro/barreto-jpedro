@@ -1,6 +1,5 @@
 ### Heyy! I'm João Pedro Barreto 👋
 ##
-- 🔭 I’m currently learning python and studying about data analysis
 
 <div align="center">
   <a href="https://github.com/barreto-jpedro">
