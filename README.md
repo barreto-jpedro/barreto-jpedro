@@ -1,7 +1,7 @@
 ### Heyy! I'm João Pedro Barreto 👋
-## Currently working as Software Quality Assurance at Metrobi (Techstars Boston '19) 
-## Working hard to become a Python Developer
-## Studing engineering at UFMG
+- Currently working as Software Quality Assurance at Metrobi (Techstars Boston '19) 
+- Working hard to become a Python Developer
+- Studing engineering at UFMG
 
 <div align="center">
   <a href="https://github.com/barreto-jpedro">
